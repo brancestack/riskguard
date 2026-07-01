@@ -1,4 +1,4 @@
-# 🛡️ RiskGuard
+#  RiskGuard
 
 > A fraud risk monitoring platform built with FastAPI to analyze financial transactions, calculate risk scores, and support manual fraud investigation.
 
