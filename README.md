@@ -165,22 +165,3 @@ Swagger
 ```
 http://127.0.0.1:8000/docs
 ```
-
----
-
-## Future Improvements
-
-- Docker support
-- PostgreSQL
-- Machine Learning risk model
-- Email notifications
-- React Dashboard
-- Role-based authorization
-
----
-
-## Author
-
-**Brancestack**
-
-Backend Developer focused on backend engineering, financial systems and scalable software.
